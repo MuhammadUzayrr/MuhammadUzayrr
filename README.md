@@ -149,9 +149,6 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUzayrr&theme=default&hide_border=true" height="160"/>
-
-</div>
 
 <div align="center">
 
