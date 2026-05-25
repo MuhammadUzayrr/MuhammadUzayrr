@@ -13,7 +13,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadUzayrr&style=flat-square&color=1D9E75&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammad-uzair-mangi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/uzairpk/pakistani-celebritiessingers-recognition-dataset)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=flat-square&logo=vercel)](https://muhammaduzairmangi.vercel.app/)
 
