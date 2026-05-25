@@ -147,13 +147,13 @@ I care about making AI useful for real problems, especially in contexts like Pak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUzayrr&theme=default&hide_border=true" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true&color=1D9E75&line=1D9E75&point=0F6E56" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUzayrr&theme=minimal&hide_border=true&area=true&color=1D9E75&line=1D9E75&point=0F6E56" width="100%"/>
 
 </div>
 
@@ -163,7 +163,7 @@ I care about making AI useful for real problems, especially in contexts like Pak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&column=7&margin-w=6&margin-h=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadUzayrr&theme=flat&no-frame=true&column=7&margin-w=6&margin-h=6" width="100%"/>
 
 </div>
 
