@@ -141,7 +141,7 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUzayrr&theme=minimal&hide_border=true&area=true"/>
 
 </div>
 
