@@ -157,7 +157,7 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUzayrr&theme=github-compact&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&hide_border=true&area=true" width="100%"/>%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUzayrr&theme=github-compact&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&hide_border=true&area=true" width="100%">
 
 </div>
 
@@ -167,8 +167,9 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadUzayrr&theme=flat&no-frame=true&column=7&margin-w=6&margin-h=6" width="100%"/>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadUzayrr&theme=darkhub&no-frame=true&column=7&margin-w=6"/>
+</div>
 </div>
 
 ---
