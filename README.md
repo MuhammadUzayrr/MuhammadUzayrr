@@ -141,7 +141,7 @@ I care about making AI useful for real problems, especially in contexts like Pak
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUzayrr&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
 
 </div>
 
