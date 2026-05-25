@@ -141,11 +141,8 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&area=true"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUzayrr&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUzayrr&layout=compact&theme=default&hide_border=true&langs_count=6" height="160"/>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUzayrr&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
