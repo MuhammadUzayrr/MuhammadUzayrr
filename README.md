@@ -27,9 +27,8 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 **Currently:**
 -  Developer at **TSAUS** — building the university portal, ERP, and admission module
--  Co-founder of the **Digital Youth Leadership Programme (DYLP)**
--  Preparing for **graduate school** in AI/ML (2026)
--  Research interests: Generative AI · Multimodal Learning · NLP for South Asian languages · Trusted AI
+-  Co-founder of the **Digital Youth Leadership Program (DYLP)**
+-  Research interests: Generative AI · Multimodal Learning · AI applications for sustainability · Trusted AI
 
 ---
 **Languages**
@@ -186,7 +185,6 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 ```text
 Generative AI             ████████████░░░░   Strong
 Multimodal Learning       ████████░░░░░░░░   Active
-NLP for South Asian lang  ████████████░░░░   Strong
 Trusted / Safe AI         ██████░░░░░░░░░░   Growing
 Climate × AI              ████████░░░░░░░░   Active
 ```
